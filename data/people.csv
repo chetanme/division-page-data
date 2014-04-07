@@ -1,36 +1,24 @@
-person_ID,name,first,middle,last,title,"
-homepageUrl",imageUrl
+person_ID,name,first,middle,last,title,homepageUrl,imageUrl
 1,Craig A. Knoblock,Craig,A.,Knoblock,"Director,Research Professor",http://www.isi.edu/integration/people/knoblock/,http://www.isi.edu/integration/people/knoblock/img/CraigKnoblock.jpg
-2,Kristina Lerman,Kristina,,Kristina Lerman,"Project Leader,Research Associate Professor
-",http://www.isi.edu/integration/people/lerman/,"
-http://www.isi.edu/integration/people/lerman/img/KLerman.jpg"
+2,Kristina Lerman,Kristina,,Kristina Lerman,"Project Leader,Research Associate Professor",http://www.isi.edu/integration/people/lerman/,http://www.isi.edu/integration/people/lerman/img/KLerman.jpg
 3,Jose Luis Ambite,Jose,Luis,Ambite,"Project Leader,Research Assistant Professor",http://isi.edu/~ambite/,http://www.isi.edu/integration/people/ambite/img/jose_ambite.jpg
 4,Pedro Szekely,Pedro,,Szekely,Project Leader,http://www.isi.edu/~szekely/,http://www.isi.edu/integration/people/szekely/img/Szekely.jpg
-5,Yu-Han Chang,Yu-Han,,Chang,"Project Leader,Research Assistant Professor
-",http://www.yuhanchang.com/,http://www.isi.edu/integration/people/ychang/img/Ychang.jpg
+5,Yu-Han Chang,Yu-Han,,Chang,"Project Leader,Research Assistant Professor",http://www.yuhanchang.com/,http://www.isi.edu/integration/people/ychang/img/Ychang.jpg
 6,Yao-Yi Chiang,Yao-Yi,,Chiang,Graduate Research Assistant,,http://www.isi.edu/integration/people/chiang/img/yaoyi.jpg
-7,Gowri Kumaraguruparan,Gowri,,Kumaraguruparan,"Research Programmer
-",http://www.isi.edu/integration/people/kumara/,http://www.isi.edu/integration/people/kumara/img/profile.jpg
-8,Shefali Sharma,Shefali,,Sharma,"Research Programmer
-",http://www.isi.edu/integration/people/sharma/,"http://www.isi.edu/integration/people/sharma/img/ShefaliSharma2.jpg
-"
-9,Gully APC Burns,Gully,APC,Burns,"Project Leader
-",http://www.isi.edu/people/burns/homepage,http://www.isi.edu/integration/people/burns/img/gully_burns.jpg
-10,Dipsy Kapoor,Dipsy,,Kapoor,"Research Scientist
-",,
+7,Gowri Kumaraguruparan,Gowri,,Kumaraguruparan,Research Programmer,http://www.isi.edu/integration/people/kumara/,http://www.isi.edu/integration/people/kumara/img/profile.jpg
+8,Shefali Sharma,Shefali,,Sharma,Research Programmer,http://www.isi.edu/integration/people/sharma/,http://www.isi.edu/integration/people/sharma/img/ShefaliSharma2.jpg
+9,Gully APC Burns,Gully,APC,Burns,Project Leader,http://www.isi.edu/people/burns/homepage,http://www.isi.edu/integration/people/burns/img/gully_burns.jpg
+10,Dipsy Kapoor,Dipsy,,Kapoor,Research Scientist,,
 11,Andrew G. Philpot,Andrew,G.,Philpot,Research Scientist,http://www.isi.edu/~philpot/,
 12,Mohsen Taheriyan,Mohsen,,Taheriyan,Graduate Research Assistant,http://www-scf.usc.edu/~taheriya/,http://www.isi.edu/integration/people/mohsen/img/mohsen.jpg
 13,Suradej Intagorn,Suradej,,Intagorn,Graduate Research Assistant,http://www-scf.usc.edu/~intagorn/,http://www.isi.edu/integration/people/intagorn/img/img.jpg
 14,Jeonhyung Kang,Jeonhyung,,Kang,Graduate Research Assistant,http://www.isi.edu/integration/people/kang/,http://www.isi.edu/integration/people/kang/img/img.jpg
 15,George Konstantinidis,George,,Konstantinidis,Graduate Research Assistant,http://www-scf.usc.edu/~konstant/,http://www.isi.edu/integration/people/konstantinidis/img/George_Konstantinidis.jpg
 16,Bo Wu,Bo,,Wu,Graduate Research Assistant,http://www-scf.usc.edu/~wubo/,http://www.isi.edu/integration/people/bowu/img/_MG_0004-Edit.jpg
-17,Maria Codruta Muslea,Maria,Codruta,Muslea,"Research Programmer
-",,
+17,Maria Codruta Muslea,Maria,Codruta,Muslea,Research Programmer,,
 18,Chun-Nan Hsu,Chun-Nan,,Hsu,Computer Scientist,,
-19,Marcelo Tallis,Marcelo,,Tallis,"Research Programmer
-",http://www.isi.edu/people/tallis/about,http://www.isi.edu/integration/people/tallis/img/marcelo-tallis.jpg
-20,Shubham Gupta,Shubham,,Gupta,"Research Programmer
-",http://www.isi.edu/integration/people/gupta/,http://www.isi.edu/integration/people/gupta/img/MyPic.jpg
+19,Marcelo Tallis,Marcelo,,Tallis,Research Programmer,http://www.isi.edu/people/tallis/about,http://www.isi.edu/integration/people/tallis/img/marcelo-tallis.jpg
+20,Shubham Gupta,Shubham,,Gupta,Research Programmer,http://www.isi.edu/integration/people/gupta/,http://www.isi.edu/integration/people/gupta/img/MyPic.jpg
 21,Yigal Arens,Yigal,,Arens,Divisonal Director,,http://www.isi.edu/integration/people/alumni/arens/img/yigal.jpg
 22,Rattapoom Tuchinda,Rattapoom,,Tuchinda,,,http://www.isi.edu/integration/people/alumni/tuchinda/img/shapeimage_13.jpg
 23,Naveen Ashish,Naveen,,Ashish,,,
