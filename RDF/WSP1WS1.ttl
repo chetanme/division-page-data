@@ -1,394 +1,280 @@
+<http://lod.isi.edu/position_type/Professor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Professor> <http://xmlns.com/foaf/0.1/title> "Professor" .
 <http://lod.isi.edu/person/id/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/1> <http://vivoweb.org/ontology/core#hrJobTitle> "Director,Research Professor" .
 <http://lod.isi.edu/person/id/1> <http://vivoweb.org/ontology/core#identifier> "1" .
-<http://lod.isi.edu/person/id/1> <http://vivoweb.org/ontology/core#middleName> "A." .
-<http://lod.isi.edu/person/id/1> <http://www.w3.org/2000/01/rdf-schema#label> "Craig A. Knoblock" .
-<http://www.isi.edu/integration/people/knoblock/img/CraigKnoblock.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/1> <http://xmlns.com/foaf/0.1/depiction> <http://www.isi.edu/integration/people/knoblock/img/CraigKnoblock.jpg> .
-<http://lod.isi.edu/person/id/1> <http://xmlns.com/foaf/0.1/firstName> "Craig" .
-<http://www.isi.edu/integration/people/knoblock/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/1> <http://xmlns.com/foaf/0.1/homepage> <http://www.isi.edu/integration/people/knoblock/> .
-<http://lod.isi.edu/person/id/1> <http://xmlns.com/foaf/0.1/lastName> "Knoblock" .
+<http://lod.isi.edu/person/id/1> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Professor> .
+<http://lod.isi.edu/person/id/1> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "1" .
 
+<http://lod.isi.edu/position_type/Professor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Professor> <http://xmlns.com/foaf/0.1/title> "Professor" .
 <http://lod.isi.edu/person/id/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/2> <http://vivoweb.org/ontology/core#hrJobTitle> "Project Leader,Research Associate Professor" .
 <http://lod.isi.edu/person/id/2> <http://vivoweb.org/ontology/core#identifier> "2" .
-<http://lod.isi.edu/person/id/2> <http://www.w3.org/2000/01/rdf-schema#label> "Kristina Lerman" .
-<http://www.isi.edu/integration/people/lerman/img/KLerman.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/2> <http://xmlns.com/foaf/0.1/depiction> <http://www.isi.edu/integration/people/lerman/img/KLerman.jpg> .
-<http://lod.isi.edu/person/id/2> <http://xmlns.com/foaf/0.1/firstName> "Kristina" .
-<http://www.isi.edu/integration/people/lerman/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/2> <http://xmlns.com/foaf/0.1/homepage> <http://www.isi.edu/integration/people/lerman/> .
-<http://lod.isi.edu/person/id/2> <http://xmlns.com/foaf/0.1/lastName> "Kristina Lerman" .
+<http://lod.isi.edu/person/id/2> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Professor> .
+<http://lod.isi.edu/person/id/2> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "2" .
 
+<http://lod.isi.edu/position_type/Professor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Professor> <http://xmlns.com/foaf/0.1/title> "Professor" .
 <http://lod.isi.edu/person/id/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/3> <http://vivoweb.org/ontology/core#hrJobTitle> "Project Leader,Research Assistant Professor" .
 <http://lod.isi.edu/person/id/3> <http://vivoweb.org/ontology/core#identifier> "3" .
-<http://lod.isi.edu/person/id/3> <http://vivoweb.org/ontology/core#middleName> "Luis" .
-<http://lod.isi.edu/person/id/3> <http://www.w3.org/2000/01/rdf-schema#label> "Jose Luis Ambite" .
-<http://www.isi.edu/integration/people/ambite/img/jose_ambite.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/3> <http://xmlns.com/foaf/0.1/depiction> <http://www.isi.edu/integration/people/ambite/img/jose_ambite.jpg> .
-<http://lod.isi.edu/person/id/3> <http://xmlns.com/foaf/0.1/firstName> "Jose" .
-<http://isi.edu/~ambite/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/3> <http://xmlns.com/foaf/0.1/homepage> <http://isi.edu/~ambite/> .
-<http://lod.isi.edu/person/id/3> <http://xmlns.com/foaf/0.1/lastName> "Ambite" .
+<http://lod.isi.edu/person/id/3> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Professor> .
+<http://lod.isi.edu/person/id/3> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "3" .
 
+<http://lod.isi.edu/position_type/Professor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Professor> <http://xmlns.com/foaf/0.1/title> "Professor" .
 <http://lod.isi.edu/person/id/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/4> <http://vivoweb.org/ontology/core#hrJobTitle> "Project Leader" .
 <http://lod.isi.edu/person/id/4> <http://vivoweb.org/ontology/core#identifier> "4" .
-<http://lod.isi.edu/person/id/4> <http://www.w3.org/2000/01/rdf-schema#label> "Pedro Szekely" .
-<http://www.isi.edu/integration/people/szekely/img/Szekely.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/4> <http://xmlns.com/foaf/0.1/depiction> <http://www.isi.edu/integration/people/szekely/img/Szekely.jpg> .
-<http://lod.isi.edu/person/id/4> <http://xmlns.com/foaf/0.1/firstName> "Pedro" .
-<http://www.isi.edu/~szekely/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/4> <http://xmlns.com/foaf/0.1/homepage> <http://www.isi.edu/~szekely/> .
-<http://lod.isi.edu/person/id/4> <http://xmlns.com/foaf/0.1/lastName> "Szekely" .
+<http://lod.isi.edu/person/id/4> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Professor> .
+<http://lod.isi.edu/person/id/4> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "4" .
 
+<http://lod.isi.edu/position_type/Professor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Professor> <http://xmlns.com/foaf/0.1/title> "Professor" .
 <http://lod.isi.edu/person/id/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/5> <http://vivoweb.org/ontology/core#hrJobTitle> "Project Leader,Research Assistant Professor" .
 <http://lod.isi.edu/person/id/5> <http://vivoweb.org/ontology/core#identifier> "5" .
-<http://lod.isi.edu/person/id/5> <http://www.w3.org/2000/01/rdf-schema#label> "Yu-Han Chang" .
-<http://www.isi.edu/integration/people/ychang/img/Ychang.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/5> <http://xmlns.com/foaf/0.1/depiction> <http://www.isi.edu/integration/people/ychang/img/Ychang.jpg> .
-<http://lod.isi.edu/person/id/5> <http://xmlns.com/foaf/0.1/firstName> "Yu-Han" .
-<http://www.yuhanchang.com/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/5> <http://xmlns.com/foaf/0.1/homepage> <http://www.yuhanchang.com/> .
-<http://lod.isi.edu/person/id/5> <http://xmlns.com/foaf/0.1/lastName> "Chang" .
+<http://lod.isi.edu/person/id/5> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Professor> .
+<http://lod.isi.edu/person/id/5> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "5" .
 
+<http://lod.isi.edu/position_type/Professor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Professor> <http://xmlns.com/foaf/0.1/title> "Professor" .
 <http://lod.isi.edu/person/id/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/6> <http://vivoweb.org/ontology/core#hrJobTitle> "Graduate Research Assistant" .
 <http://lod.isi.edu/person/id/6> <http://vivoweb.org/ontology/core#identifier> "6" .
-<http://lod.isi.edu/person/id/6> <http://www.w3.org/2000/01/rdf-schema#label> "Yao-Yi Chiang" .
-<http://www.isi.edu/integration/people/chiang/img/yaoyi.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/6> <http://xmlns.com/foaf/0.1/depiction> <http://www.isi.edu/integration/people/chiang/img/yaoyi.jpg> .
-<http://lod.isi.edu/person/id/6> <http://xmlns.com/foaf/0.1/firstName> "Yao-Yi" .
-<http://lod.isi.edu/person/id/6> <http://xmlns.com/foaf/0.1/lastName> "Chiang" .
+<http://lod.isi.edu/person/id/6> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Professor> .
+<http://lod.isi.edu/person/id/6> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "6" .
 
+<http://lod.isi.edu/position_type/Researcher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Researcher> <http://xmlns.com/foaf/0.1/title> "Researcher" .
 <http://lod.isi.edu/person/id/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/7> <http://vivoweb.org/ontology/core#hrJobTitle> "Research Programmer" .
 <http://lod.isi.edu/person/id/7> <http://vivoweb.org/ontology/core#identifier> "7" .
-<http://lod.isi.edu/person/id/7> <http://www.w3.org/2000/01/rdf-schema#label> "Gowri Kumaraguruparan" .
-<http://www.isi.edu/integration/people/kumara/img/profile.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/7> <http://xmlns.com/foaf/0.1/depiction> <http://www.isi.edu/integration/people/kumara/img/profile.jpg> .
-<http://lod.isi.edu/person/id/7> <http://xmlns.com/foaf/0.1/firstName> "Gowri" .
-<http://www.isi.edu/integration/people/kumara/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/7> <http://xmlns.com/foaf/0.1/homepage> <http://www.isi.edu/integration/people/kumara/> .
-<http://lod.isi.edu/person/id/7> <http://xmlns.com/foaf/0.1/lastName> "Kumaraguruparan" .
+<http://lod.isi.edu/person/id/7> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Researcher> .
+<http://lod.isi.edu/person/id/7> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "1" .
 
+<http://lod.isi.edu/position_type/Researcher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Researcher> <http://xmlns.com/foaf/0.1/title> "Researcher" .
 <http://lod.isi.edu/person/id/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/8> <http://vivoweb.org/ontology/core#hrJobTitle> "Research Programmer" .
 <http://lod.isi.edu/person/id/8> <http://vivoweb.org/ontology/core#identifier> "8" .
-<http://lod.isi.edu/person/id/8> <http://www.w3.org/2000/01/rdf-schema#label> "Shefali Sharma" .
-<http://www.isi.edu/integration/people/sharma/img/ShefaliSharma2.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/8> <http://xmlns.com/foaf/0.1/depiction> <http://www.isi.edu/integration/people/sharma/img/ShefaliSharma2.jpg> .
-<http://lod.isi.edu/person/id/8> <http://xmlns.com/foaf/0.1/firstName> "Shefali" .
-<http://www.isi.edu/integration/people/sharma/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/8> <http://xmlns.com/foaf/0.1/homepage> <http://www.isi.edu/integration/people/sharma/> .
-<http://lod.isi.edu/person/id/8> <http://xmlns.com/foaf/0.1/lastName> "Sharma" .
+<http://lod.isi.edu/person/id/8> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Researcher> .
+<http://lod.isi.edu/person/id/8> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "2" .
 
+<http://lod.isi.edu/position_type/Researcher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Researcher> <http://xmlns.com/foaf/0.1/title> "Researcher" .
 <http://lod.isi.edu/person/id/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/9> <http://vivoweb.org/ontology/core#hrJobTitle> "Project Leader" .
 <http://lod.isi.edu/person/id/9> <http://vivoweb.org/ontology/core#identifier> "9" .
-<http://lod.isi.edu/person/id/9> <http://vivoweb.org/ontology/core#middleName> "APC" .
-<http://lod.isi.edu/person/id/9> <http://www.w3.org/2000/01/rdf-schema#label> "Gully APC Burns" .
-<http://www.isi.edu/integration/people/burns/img/gully_burns.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/9> <http://xmlns.com/foaf/0.1/depiction> <http://www.isi.edu/integration/people/burns/img/gully_burns.jpg> .
-<http://lod.isi.edu/person/id/9> <http://xmlns.com/foaf/0.1/firstName> "Gully" .
-<http://www.isi.edu/people/burns/homepage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/9> <http://xmlns.com/foaf/0.1/homepage> <http://www.isi.edu/people/burns/homepage> .
-<http://lod.isi.edu/person/id/9> <http://xmlns.com/foaf/0.1/lastName> "Burns" .
+<http://lod.isi.edu/person/id/9> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Researcher> .
+<http://lod.isi.edu/person/id/9> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "3" .
 
+<http://lod.isi.edu/position_type/Researcher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Researcher> <http://xmlns.com/foaf/0.1/title> "Researcher" .
 <http://lod.isi.edu/person/id/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/10> <http://vivoweb.org/ontology/core#hrJobTitle> "Research Scientist" .
 <http://lod.isi.edu/person/id/10> <http://vivoweb.org/ontology/core#identifier> "10" .
-<http://lod.isi.edu/person/id/10> <http://www.w3.org/2000/01/rdf-schema#label> "Dipsy Kapoor" .
-<http://lod.isi.edu/person/id/10> <http://xmlns.com/foaf/0.1/firstName> "Dipsy" .
-<http://lod.isi.edu/person/id/10> <http://xmlns.com/foaf/0.1/lastName> "Kapoor" .
+<http://lod.isi.edu/person/id/10> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Researcher> .
+<http://lod.isi.edu/person/id/10> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "4" .
 
+<http://lod.isi.edu/position_type/Researcher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Researcher> <http://xmlns.com/foaf/0.1/title> "Researcher" .
 <http://lod.isi.edu/person/id/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/11> <http://vivoweb.org/ontology/core#hrJobTitle> "Research Scientist" .
 <http://lod.isi.edu/person/id/11> <http://vivoweb.org/ontology/core#identifier> "11" .
-<http://lod.isi.edu/person/id/11> <http://vivoweb.org/ontology/core#middleName> "G." .
-<http://lod.isi.edu/person/id/11> <http://www.w3.org/2000/01/rdf-schema#label> "Andrew G. Philpot" .
-<http://lod.isi.edu/person/id/11> <http://xmlns.com/foaf/0.1/firstName> "Andrew" .
-<http://www.isi.edu/~philpot/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/11> <http://xmlns.com/foaf/0.1/homepage> <http://www.isi.edu/~philpot/> .
-<http://lod.isi.edu/person/id/11> <http://xmlns.com/foaf/0.1/lastName> "Philpot" .
+<http://lod.isi.edu/person/id/11> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Researcher> .
+<http://lod.isi.edu/person/id/11> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "5" .
 
+<http://lod.isi.edu/position_type/GraduateStudent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/GraduateStudent> <http://xmlns.com/foaf/0.1/title> "Graduate Student" .
 <http://lod.isi.edu/person/id/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/12> <http://vivoweb.org/ontology/core#hrJobTitle> "Graduate Research Assistant" .
 <http://lod.isi.edu/person/id/12> <http://vivoweb.org/ontology/core#identifier> "12" .
-<http://lod.isi.edu/person/id/12> <http://www.w3.org/2000/01/rdf-schema#label> "Mohsen Taheriyan" .
-<http://www.isi.edu/integration/people/mohsen/img/mohsen.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/12> <http://xmlns.com/foaf/0.1/depiction> <http://www.isi.edu/integration/people/mohsen/img/mohsen.jpg> .
-<http://lod.isi.edu/person/id/12> <http://xmlns.com/foaf/0.1/firstName> "Mohsen" .
-<http://www-scf.usc.edu/~taheriya/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/12> <http://xmlns.com/foaf/0.1/homepage> <http://www-scf.usc.edu/~taheriya/> .
-<http://lod.isi.edu/person/id/12> <http://xmlns.com/foaf/0.1/lastName> "Taheriyan" .
+<http://lod.isi.edu/person/id/12> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/GraduateStudent> .
+<http://lod.isi.edu/person/id/12> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "1" .
 
+<http://lod.isi.edu/position_type/GraduateStudent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/GraduateStudent> <http://xmlns.com/foaf/0.1/title> "Graduate Student" .
 <http://lod.isi.edu/person/id/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/13> <http://vivoweb.org/ontology/core#hrJobTitle> "Graduate Research Assistant" .
 <http://lod.isi.edu/person/id/13> <http://vivoweb.org/ontology/core#identifier> "13" .
-<http://lod.isi.edu/person/id/13> <http://www.w3.org/2000/01/rdf-schema#label> "Suradej Intagorn" .
-<http://www.isi.edu/integration/people/intagorn/img/img.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/13> <http://xmlns.com/foaf/0.1/depiction> <http://www.isi.edu/integration/people/intagorn/img/img.jpg> .
-<http://lod.isi.edu/person/id/13> <http://xmlns.com/foaf/0.1/firstName> "Suradej" .
-<http://www-scf.usc.edu/~intagorn/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/13> <http://xmlns.com/foaf/0.1/homepage> <http://www-scf.usc.edu/~intagorn/> .
-<http://lod.isi.edu/person/id/13> <http://xmlns.com/foaf/0.1/lastName> "Intagorn" .
+<http://lod.isi.edu/person/id/13> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/GraduateStudent> .
+<http://lod.isi.edu/person/id/13> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "2" .
 
+<http://lod.isi.edu/position_type/GraduateStudent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/GraduateStudent> <http://xmlns.com/foaf/0.1/title> "Graduate Student" .
 <http://lod.isi.edu/person/id/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/14> <http://vivoweb.org/ontology/core#hrJobTitle> "Graduate Research Assistant" .
 <http://lod.isi.edu/person/id/14> <http://vivoweb.org/ontology/core#identifier> "14" .
-<http://lod.isi.edu/person/id/14> <http://www.w3.org/2000/01/rdf-schema#label> "Jeonhyung Kang" .
-<http://www.isi.edu/integration/people/kang/img/img.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/14> <http://xmlns.com/foaf/0.1/depiction> <http://www.isi.edu/integration/people/kang/img/img.jpg> .
-<http://lod.isi.edu/person/id/14> <http://xmlns.com/foaf/0.1/firstName> "Jeonhyung" .
-<http://www.isi.edu/integration/people/kang/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/14> <http://xmlns.com/foaf/0.1/homepage> <http://www.isi.edu/integration/people/kang/> .
-<http://lod.isi.edu/person/id/14> <http://xmlns.com/foaf/0.1/lastName> "Kang" .
+<http://lod.isi.edu/person/id/14> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/GraduateStudent> .
+<http://lod.isi.edu/person/id/14> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "3" .
 
+<http://lod.isi.edu/position_type/GraduateStudent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/GraduateStudent> <http://xmlns.com/foaf/0.1/title> "Graduate Student" .
 <http://lod.isi.edu/person/id/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/15> <http://vivoweb.org/ontology/core#hrJobTitle> "Graduate Research Assistant" .
 <http://lod.isi.edu/person/id/15> <http://vivoweb.org/ontology/core#identifier> "15" .
-<http://lod.isi.edu/person/id/15> <http://www.w3.org/2000/01/rdf-schema#label> "George Konstantinidis" .
-<http://www.isi.edu/integration/people/konstantinidis/img/George_Konstantinidis.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/15> <http://xmlns.com/foaf/0.1/depiction> <http://www.isi.edu/integration/people/konstantinidis/img/George_Konstantinidis.jpg> .
-<http://lod.isi.edu/person/id/15> <http://xmlns.com/foaf/0.1/firstName> "George" .
-<http://www-scf.usc.edu/~konstant/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/15> <http://xmlns.com/foaf/0.1/homepage> <http://www-scf.usc.edu/~konstant/> .
-<http://lod.isi.edu/person/id/15> <http://xmlns.com/foaf/0.1/lastName> "Konstantinidis" .
+<http://lod.isi.edu/person/id/15> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/GraduateStudent> .
+<http://lod.isi.edu/person/id/15> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "4" .
 
+<http://lod.isi.edu/position_type/GraduateStudent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/GraduateStudent> <http://xmlns.com/foaf/0.1/title> "Graduate Student" .
 <http://lod.isi.edu/person/id/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/16> <http://vivoweb.org/ontology/core#hrJobTitle> "Graduate Research Assistant" .
 <http://lod.isi.edu/person/id/16> <http://vivoweb.org/ontology/core#identifier> "16" .
-<http://lod.isi.edu/person/id/16> <http://www.w3.org/2000/01/rdf-schema#label> "Bo Wu" .
-<http://www.isi.edu/integration/people/bowu/img/_MG_0004-Edit.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/16> <http://xmlns.com/foaf/0.1/depiction> <http://www.isi.edu/integration/people/bowu/img/_MG_0004-Edit.jpg> .
-<http://lod.isi.edu/person/id/16> <http://xmlns.com/foaf/0.1/firstName> "Bo" .
-<http://www-scf.usc.edu/~wubo/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/16> <http://xmlns.com/foaf/0.1/homepage> <http://www-scf.usc.edu/~wubo/> .
-<http://lod.isi.edu/person/id/16> <http://xmlns.com/foaf/0.1/lastName> "Wu" .
+<http://lod.isi.edu/person/id/16> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/GraduateStudent> .
+<http://lod.isi.edu/person/id/16> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "5" .
 
+<http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
 <http://lod.isi.edu/person/id/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/17> <http://vivoweb.org/ontology/core#hrJobTitle> "Research Programmer" .
 <http://lod.isi.edu/person/id/17> <http://vivoweb.org/ontology/core#identifier> "17" .
-<http://lod.isi.edu/person/id/17> <http://vivoweb.org/ontology/core#middleName> "Codruta" .
-<http://lod.isi.edu/person/id/17> <http://www.w3.org/2000/01/rdf-schema#label> "Maria Codruta Muslea" .
-<http://lod.isi.edu/person/id/17> <http://xmlns.com/foaf/0.1/firstName> "Maria" .
-<http://lod.isi.edu/person/id/17> <http://xmlns.com/foaf/0.1/lastName> "Muslea" .
+<http://lod.isi.edu/person/id/17> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/17> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "1" .
 
+<http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
 <http://lod.isi.edu/person/id/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/18> <http://vivoweb.org/ontology/core#hrJobTitle> "Computer Scientist" .
 <http://lod.isi.edu/person/id/18> <http://vivoweb.org/ontology/core#identifier> "18" .
-<http://lod.isi.edu/person/id/18> <http://www.w3.org/2000/01/rdf-schema#label> "Chun-Nan Hsu" .
-<http://lod.isi.edu/person/id/18> <http://xmlns.com/foaf/0.1/firstName> "Chun-Nan" .
-<http://lod.isi.edu/person/id/18> <http://xmlns.com/foaf/0.1/lastName> "Hsu" .
+<http://lod.isi.edu/person/id/18> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/18> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "2" .
 
+<http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
 <http://lod.isi.edu/person/id/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/19> <http://vivoweb.org/ontology/core#hrJobTitle> "Research Programmer" .
 <http://lod.isi.edu/person/id/19> <http://vivoweb.org/ontology/core#identifier> "19" .
-<http://lod.isi.edu/person/id/19> <http://www.w3.org/2000/01/rdf-schema#label> "Marcelo Tallis" .
-<http://www.isi.edu/integration/people/tallis/img/marcelo-tallis.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/19> <http://xmlns.com/foaf/0.1/depiction> <http://www.isi.edu/integration/people/tallis/img/marcelo-tallis.jpg> .
-<http://lod.isi.edu/person/id/19> <http://xmlns.com/foaf/0.1/firstName> "Marcelo" .
-<http://www.isi.edu/people/tallis/about> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/19> <http://xmlns.com/foaf/0.1/homepage> <http://www.isi.edu/people/tallis/about> .
-<http://lod.isi.edu/person/id/19> <http://xmlns.com/foaf/0.1/lastName> "Tallis" .
+<http://lod.isi.edu/person/id/19> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/19> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "3" .
 
+<http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
 <http://lod.isi.edu/person/id/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/20> <http://vivoweb.org/ontology/core#hrJobTitle> "Research Programmer" .
 <http://lod.isi.edu/person/id/20> <http://vivoweb.org/ontology/core#identifier> "20" .
-<http://lod.isi.edu/person/id/20> <http://www.w3.org/2000/01/rdf-schema#label> "Shubham Gupta" .
-<http://www.isi.edu/integration/people/gupta/img/MyPic.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/20> <http://xmlns.com/foaf/0.1/depiction> <http://www.isi.edu/integration/people/gupta/img/MyPic.jpg> .
-<http://lod.isi.edu/person/id/20> <http://xmlns.com/foaf/0.1/firstName> "Shubham" .
-<http://www.isi.edu/integration/people/gupta/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/20> <http://xmlns.com/foaf/0.1/homepage> <http://www.isi.edu/integration/people/gupta/> .
-<http://lod.isi.edu/person/id/20> <http://xmlns.com/foaf/0.1/lastName> "Gupta" .
+<http://lod.isi.edu/person/id/20> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/20> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "4" .
 
+<http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
 <http://lod.isi.edu/person/id/21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/21> <http://vivoweb.org/ontology/core#hrJobTitle> "Divisonal Director" .
 <http://lod.isi.edu/person/id/21> <http://vivoweb.org/ontology/core#identifier> "21" .
-<http://lod.isi.edu/person/id/21> <http://www.w3.org/2000/01/rdf-schema#label> "Yigal Arens" .
-<http://www.isi.edu/integration/people/alumni/arens/img/yigal.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/21> <http://xmlns.com/foaf/0.1/depiction> <http://www.isi.edu/integration/people/alumni/arens/img/yigal.jpg> .
-<http://lod.isi.edu/person/id/21> <http://xmlns.com/foaf/0.1/firstName> "Yigal" .
-<http://lod.isi.edu/person/id/21> <http://xmlns.com/foaf/0.1/lastName> "Arens" .
+<http://lod.isi.edu/person/id/21> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/21> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "5" .
 
+<http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
 <http://lod.isi.edu/person/id/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/person/id/22> <http://vivoweb.org/ontology/core#identifier> "22" .
-<http://lod.isi.edu/person/id/22> <http://www.w3.org/2000/01/rdf-schema#label> "Rattapoom Tuchinda" .
-<http://www.isi.edu/integration/people/alumni/tuchinda/img/shapeimage_13.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/22> <http://xmlns.com/foaf/0.1/depiction> <http://www.isi.edu/integration/people/alumni/tuchinda/img/shapeimage_13.jpg> .
-<http://lod.isi.edu/person/id/22> <http://xmlns.com/foaf/0.1/firstName> "Rattapoom" .
-<http://lod.isi.edu/person/id/22> <http://xmlns.com/foaf/0.1/lastName> "Tuchinda" .
+<http://lod.isi.edu/person/id/22> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/22> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "6" .
 
+<http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
 <http://lod.isi.edu/person/id/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/person/id/23> <http://vivoweb.org/ontology/core#identifier> "23" .
-<http://lod.isi.edu/person/id/23> <http://www.w3.org/2000/01/rdf-schema#label> "Naveen Ashish" .
-<http://lod.isi.edu/person/id/23> <http://xmlns.com/foaf/0.1/firstName> "Naveen" .
-<http://lod.isi.edu/person/id/23> <http://xmlns.com/foaf/0.1/lastName> "Ashish" .
+<http://lod.isi.edu/person/id/23> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/23> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "7" .
 
+<http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
 <http://lod.isi.edu/person/id/24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/24> <http://vivoweb.org/ontology/core#hrJobTitle> "Software Engineer" .
 <http://lod.isi.edu/person/id/24> <http://vivoweb.org/ontology/core#identifier> "24" .
-<http://lod.isi.edu/person/id/24> <http://www.w3.org/2000/01/rdf-schema#label> "Rahul Bakshi" .
-<http://www.rahulbakshi.com/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/24> <http://xmlns.com/foaf/0.1/depiction> <http://www.rahulbakshi.com/> .
-<http://lod.isi.edu/person/id/24> <http://xmlns.com/foaf/0.1/firstName> "Rahul" .
-<http://lod.isi.edu/person/id/24> <http://xmlns.com/foaf/0.1/lastName> "Bakshi" .
+<http://lod.isi.edu/person/id/24> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/24> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "8" .
 
+<http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
 <http://lod.isi.edu/person/id/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/25> <http://vivoweb.org/ontology/core#hrJobTitle> "Chief Architect" .
 <http://lod.isi.edu/person/id/25> <http://vivoweb.org/ontology/core#identifier> "25" .
-<http://lod.isi.edu/person/id/25> <http://www.w3.org/2000/01/rdf-schema#label> "Greg Barish" .
-<http://www.isi.edu/integration/people/alumni/barish/img/img.png> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/25> <http://xmlns.com/foaf/0.1/depiction> <http://www.isi.edu/integration/people/alumni/barish/img/img.png> .
-<http://lod.isi.edu/person/id/25> <http://xmlns.com/foaf/0.1/firstName> "Greg" .
-<http://lod.isi.edu/person/id/25> <http://xmlns.com/foaf/0.1/lastName> "Barish" .
+<http://lod.isi.edu/person/id/25> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/25> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "9" .
 
+<http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
 <http://lod.isi.edu/person/id/26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/26> <http://vivoweb.org/ontology/core#hrJobTitle> "PostDoc" .
 <http://lod.isi.edu/person/id/26> <http://vivoweb.org/ontology/core#identifier> "26" .
-<http://lod.isi.edu/person/id/26> <http://vivoweb.org/ontology/core#middleName> "James" .
-<http://lod.isi.edu/person/id/26> <http://www.w3.org/2000/01/rdf-schema#label> "Mark James Carman" .
-<http://bradipo.net/mark/images/me.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/26> <http://xmlns.com/foaf/0.1/depiction> <http://bradipo.net/mark/images/me.jpg> .
-<http://lod.isi.edu/person/id/26> <http://xmlns.com/foaf/0.1/firstName> "Mark" .
-<http://bradipo.net/mark/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/26> <http://xmlns.com/foaf/0.1/homepage> <http://bradipo.net/mark/> .
-<http://lod.isi.edu/person/id/26> <http://xmlns.com/foaf/0.1/lastName> "Carman" .
+<http://lod.isi.edu/person/id/26> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/26> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "10" .
 
+<http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
 <http://lod.isi.edu/person/id/27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/person/id/27> <http://vivoweb.org/ontology/core#identifier> "27" .
-<http://lod.isi.edu/person/id/27> <http://www.w3.org/2000/01/rdf-schema#label> "Anon Plangprasopchok" .
-<http://www.isi.edu/integration/people/alumni/plangpra/img/AnonMay10.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/27> <http://xmlns.com/foaf/0.1/depiction> <http://www.isi.edu/integration/people/alumni/plangpra/img/AnonMay10.jpg> .
-<http://lod.isi.edu/person/id/27> <http://xmlns.com/foaf/0.1/firstName> "Anon" .
-<https://sites.google.com/site/anonplangprasopchok/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/27> <http://xmlns.com/foaf/0.1/homepage> <https://sites.google.com/site/anonplangprasopchok/> .
-<http://lod.isi.edu/person/id/27> <http://xmlns.com/foaf/0.1/lastName> "Plangprasopchok" .
+<http://lod.isi.edu/person/id/27> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/27> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "11" .
 
+<http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
 <http://lod.isi.edu/person/id/28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/person/id/28> <http://vivoweb.org/ontology/core#identifier> "28" .
-<http://lod.isi.edu/person/id/28> <http://www.w3.org/2000/01/rdf-schema#label> "Dan DiPasquo" .
-<http://isi.edu/integration/img/NoProfilePicture.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/28> <http://xmlns.com/foaf/0.1/depiction> <http://isi.edu/integration/img/NoProfilePicture.jpg> .
-<http://lod.isi.edu/person/id/28> <http://xmlns.com/foaf/0.1/firstName> "Dan" .
-<http://lod.isi.edu/person/id/28> <http://xmlns.com/foaf/0.1/lastName> "DiPasquo" .
+<http://lod.isi.edu/person/id/28> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/28> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "12" .
 
+<http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
 <http://lod.isi.edu/person/id/29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/29> <http://vivoweb.org/ontology/core#hrJobTitle> "Graduate Research Assistant" .
 <http://lod.isi.edu/person/id/29> <http://vivoweb.org/ontology/core#identifier> "29" .
-<http://lod.isi.edu/person/id/29> <http://www.w3.org/2000/01/rdf-schema#label> "Rahul Parundekar" .
-<http://isi.edu/integration/img/NoProfilePicture.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/29> <http://xmlns.com/foaf/0.1/depiction> <http://isi.edu/integration/img/NoProfilePicture.jpg> .
-<http://lod.isi.edu/person/id/29> <http://xmlns.com/foaf/0.1/firstName> "Rahul" .
-<http://lod.isi.edu/person/id/29> <http://xmlns.com/foaf/0.1/lastName> "Parundekar" .
+<http://lod.isi.edu/person/id/29> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/29> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "13" .
 
+<http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
 <http://lod.isi.edu/person/id/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/person/id/30> <http://vivoweb.org/ontology/core#identifier> "30" .
-<http://lod.isi.edu/person/id/30> <http://www.w3.org/2000/01/rdf-schema#label> "Martin Michalowski" .
-<http://isi.edu/integration/img/NoProfilePicture.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/30> <http://xmlns.com/foaf/0.1/depiction> <http://isi.edu/integration/img/NoProfilePicture.jpg> .
-<http://lod.isi.edu/person/id/30> <http://xmlns.com/foaf/0.1/firstName> "Martin" .
-<http://lod.isi.edu/person/id/30> <http://xmlns.com/foaf/0.1/lastName> "Michalowski" .
+<http://lod.isi.edu/person/id/30> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/30> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "14" .
 
+<http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
 <http://lod.isi.edu/person/id/31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/person/id/31> <http://vivoweb.org/ontology/core#identifier> "31" .
-<http://lod.isi.edu/person/id/31> <http://www.w3.org/2000/01/rdf-schema#label> "Matthew Michelson" .
-<http://www.isi.edu/integration/people/michelso/me.JPG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/31> <http://xmlns.com/foaf/0.1/depiction> <http://www.isi.edu/integration/people/michelso/me.JPG> .
-<http://lod.isi.edu/person/id/31> <http://xmlns.com/foaf/0.1/firstName> "Matthew" .
-<http://www.isi.edu/integration/people/michelso/index.html> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/31> <http://xmlns.com/foaf/0.1/homepage> <http://www.isi.edu/integration/people/michelso/index.html> .
-<http://lod.isi.edu/person/id/31> <http://xmlns.com/foaf/0.1/lastName> "Michelson" .
+<http://lod.isi.edu/person/id/31> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/31> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "15" .
 
+<http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
 <http://lod.isi.edu/person/id/32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/32> <http://vivoweb.org/ontology/core#hrJobTitle> "Chief Technical Officer" .
 <http://lod.isi.edu/person/id/32> <http://vivoweb.org/ontology/core#identifier> "32" .
-<http://lod.isi.edu/person/id/32> <http://www.w3.org/2000/01/rdf-schema#label> "Steve Minton" .
-<http://isi.edu/integration/img/NoProfilePicture.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/32> <http://xmlns.com/foaf/0.1/depiction> <http://isi.edu/integration/img/NoProfilePicture.jpg> .
-<http://lod.isi.edu/person/id/32> <http://xmlns.com/foaf/0.1/firstName> "Steve" .
-<http://lod.isi.edu/person/id/32> <http://xmlns.com/foaf/0.1/lastName> "Minton" .
+<http://lod.isi.edu/person/id/32> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/32> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "16" .
 
+<http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
 <http://lod.isi.edu/person/id/33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/person/id/33> <http://vivoweb.org/ontology/core#identifier> "33" .
-<http://lod.isi.edu/person/id/33> <http://vivoweb.org/ontology/core#middleName> "Jay" .
-<http://lod.isi.edu/person/id/33> <http://www.w3.org/2000/01/rdf-schema#label> "Pragnesh Jay Modi" .
-<http://isi.edu/integration/img/NoProfilePicture.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/33> <http://xmlns.com/foaf/0.1/depiction> <http://isi.edu/integration/img/NoProfilePicture.jpg> .
-<http://lod.isi.edu/person/id/33> <http://xmlns.com/foaf/0.1/firstName> "Pragnesh" .
-<http://lod.isi.edu/person/id/33> <http://xmlns.com/foaf/0.1/lastName> "Modi" .
+<http://lod.isi.edu/person/id/33> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/33> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "17" .
 
+<http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
 <http://lod.isi.edu/person/id/34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/34> <http://vivoweb.org/ontology/core#hrJobTitle> "Research Scientist" .
 <http://lod.isi.edu/person/id/34> <http://vivoweb.org/ontology/core#identifier> "34" .
-<http://lod.isi.edu/person/id/34> <http://www.w3.org/2000/01/rdf-schema#label> "Ion Muslea" .
-<http://isi.edu/integration/img/NoProfilePicture.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/34> <http://xmlns.com/foaf/0.1/depiction> <http://isi.edu/integration/img/NoProfilePicture.jpg> .
-<http://lod.isi.edu/person/id/34> <http://xmlns.com/foaf/0.1/firstName> "Ion" .
-<http://lod.isi.edu/person/id/34> <http://xmlns.com/foaf/0.1/lastName> "Muslea" .
+<http://lod.isi.edu/person/id/34> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/34> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "18" .
 
+<http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
 <http://lod.isi.edu/person/id/35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/35> <http://vivoweb.org/ontology/core#hrJobTitle> "PostDoc" .
 <http://lod.isi.edu/person/id/35> <http://vivoweb.org/ontology/core#identifier> "35" .
-<http://lod.isi.edu/person/id/35> <http://www.w3.org/2000/01/rdf-schema#label> "Jean Oh" .
-<http://isi.edu/integration/img/NoProfilePicture.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/35> <http://xmlns.com/foaf/0.1/depiction> <http://isi.edu/integration/img/NoProfilePicture.jpg> .
-<http://lod.isi.edu/person/id/35> <http://xmlns.com/foaf/0.1/firstName> "Jean" .
-<http://www.cs.cmu.edu/~jeanoh/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/35> <http://xmlns.com/foaf/0.1/homepage> <http://www.cs.cmu.edu/~jeanoh/> .
-<http://lod.isi.edu/person/id/35> <http://xmlns.com/foaf/0.1/lastName> "Oh" .
+<http://lod.isi.edu/person/id/35> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/35> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "19" .
 
+<http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
 <http://lod.isi.edu/person/id/36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/36> <http://vivoweb.org/ontology/core#hrJobTitle> "Graduate Research Assistant" .
 <http://lod.isi.edu/person/id/36> <http://vivoweb.org/ontology/core#identifier> "36" .
-<http://lod.isi.edu/person/id/36> <http://www.w3.org/2000/01/rdf-schema#label> "Aman Goel" .
-<http://www.isi.edu/integration/people/alumni/goel/img/amangoel.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/36> <http://xmlns.com/foaf/0.1/depiction> <http://www.isi.edu/integration/people/alumni/goel/img/amangoel.jpg> .
-<http://lod.isi.edu/person/id/36> <http://xmlns.com/foaf/0.1/firstName> "Aman" .
-<http://lod.isi.edu/person/id/36> <http://xmlns.com/foaf/0.1/lastName> "Goel" .
+<http://lod.isi.edu/person/id/36> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/36> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "20" .
 
+<http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
 <http://lod.isi.edu/person/id/37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/37> <http://vivoweb.org/ontology/core#hrJobTitle> "Graduate Research Assistant" .
 <http://lod.isi.edu/person/id/37> <http://vivoweb.org/ontology/core#identifier> "37" .
-<http://lod.isi.edu/person/id/37> <http://www.w3.org/2000/01/rdf-schema#label> "Rumi Ghosh" .
-<http://www.isi.edu/integration/people/alumni/ghosh/img/Rumi_Ghosh.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/37> <http://xmlns.com/foaf/0.1/depiction> <http://www.isi.edu/integration/people/alumni/ghosh/img/Rumi_Ghosh.jpg> .
-<http://lod.isi.edu/person/id/37> <http://xmlns.com/foaf/0.1/firstName> "Rumi" .
-<http://lod.isi.edu/person/id/37> <http://xmlns.com/foaf/0.1/lastName> "Ghosh" .
+<http://lod.isi.edu/person/id/37> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/37> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "21" .
 
+<http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
 <http://lod.isi.edu/person/id/38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/38> <http://vivoweb.org/ontology/core#hrJobTitle> "Project Leader,Research Assistant Professor" .
 <http://lod.isi.edu/person/id/38> <http://vivoweb.org/ontology/core#identifier> "38" .
-<http://lod.isi.edu/person/id/38> <http://vivoweb.org/ontology/core#middleName> "A." .
-<http://lod.isi.edu/person/id/38> <http://www.w3.org/2000/01/rdf-schema#label> "Sofus A. Macskassy" .
-<http://www.isi.edu/integration/people/alumni/sofmac/img/Macskassy.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/38> <http://xmlns.com/foaf/0.1/depiction> <http://www.isi.edu/integration/people/alumni/sofmac/img/Macskassy.jpg> .
-<http://lod.isi.edu/person/id/38> <http://xmlns.com/foaf/0.1/firstName> "Sofus" .
-<http://www-bcf.usc.edu/~macskass/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/38> <http://xmlns.com/foaf/0.1/homepage> <http://www-bcf.usc.edu/~macskass/> .
-<http://lod.isi.edu/person/id/38> <http://xmlns.com/foaf/0.1/lastName> "Macskassy" .
+<http://lod.isi.edu/person/id/38> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/38> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "22" .
 
+<http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
 <http://lod.isi.edu/person/id/39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/39> <http://vivoweb.org/ontology/core#hrJobTitle> "Senior Lecturer" .
 <http://lod.isi.edu/person/id/39> <http://vivoweb.org/ontology/core#identifier> "39" .
-<http://lod.isi.edu/person/id/39> <http://www.w3.org/2000/01/rdf-schema#label> "Sheila Tejada" .
-<http://www-bcf.usc.edu/~stejada/Sheila2012.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/39> <http://xmlns.com/foaf/0.1/depiction> <http://www-bcf.usc.edu/~stejada/Sheila2012.jpg> .
-<http://lod.isi.edu/person/id/39> <http://xmlns.com/foaf/0.1/firstName> "Sheila" .
-<http://www-bcf.usc.edu/~stejada/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/39> <http://xmlns.com/foaf/0.1/homepage> <http://www-bcf.usc.edu/~stejada/> .
-<http://lod.isi.edu/person/id/39> <http://xmlns.com/foaf/0.1/lastName> "Tejada" .
+<http://lod.isi.edu/person/id/39> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/39> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "23" .
 
+<http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
 <http://lod.isi.edu/person/id/40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/person/id/40> <http://vivoweb.org/ontology/core#identifier> "40" .
-<http://lod.isi.edu/person/id/40> <http://www.w3.org/2000/01/rdf-schema#label> "Snehal Thakkar" .
-<http://isi.edu/integration/img/NoProfilePicture.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
-<http://lod.isi.edu/person/id/40> <http://xmlns.com/foaf/0.1/depiction> <http://isi.edu/integration/img/NoProfilePicture.jpg> .
-<http://lod.isi.edu/person/id/40> <http://xmlns.com/foaf/0.1/firstName> "Snehal" .
-<http://lod.isi.edu/person/id/40> <http://xmlns.com/foaf/0.1/lastName> "Thakkar" .
+<http://lod.isi.edu/person/id/40> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/40> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "24" .
 
