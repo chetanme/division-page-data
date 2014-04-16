@@ -1,4 +1,4 @@
 division-page-data
 ==================
 
-Dataaa repository for division page
+Data repository for division page
