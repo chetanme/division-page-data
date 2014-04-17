@@ -1,5 +1,5 @@
 org_ID,org_name,org_location,person_ID,org_vivo_uri
-1,ISI,,11,
+1,ISI,11,
 2,NECTC,Thailand,"22, 27",
 3,University of California,Irvine,23,http://vivoweb.org/ontology/core#University
 4,Fetch Technologies,,"25, 31, 32",
