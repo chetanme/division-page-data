@@ -1,15 +1,15 @@
 person_ID,position_type,start_date,end_date,display_order
-1,Professorrr,,,1
+1,Professor,,,1
 2,Professor,,,2
 3,Professor,,,3
 4,Professor,,,4
 5,Professor,,,5
 6,Professor,,,6
-7,Researcher,,,1
-8,Researcher,,,2
-9,Researcher,,,3
-10,Researcher,,,4
-11,Researcher,,,5
+7,Alumni,,,25
+8,Researcher,,,1
+9,Researcher,,,2
+10,Researcher,,,3
+11,Researcher,,,4
 12,Graduate Student,,,1
 13,Graduate Student,,,2
 14,Graduate Student,,,3
