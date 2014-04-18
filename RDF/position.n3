@@ -1,320 +1,320 @@
-<http://lod.isi.edu/position_type/Professor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
+<http://lod.isi.edu/position_type/Professorrr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/position_type/Professor> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/1> .
-<http://lod.isi.edu/position_type/Professor> <http://xmlns.com/foaf/0.1/title> "Professor" .
-<http://lod.isi.edu/person/id/1> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "1" .
+<http://lod.isi.edu/position_type/Professorrr> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/1> .
+<http://lod.isi.edu/position_type/Professorrr> <http://xmlns.com/foaf/0.1/title> "Professorrr" .
 <http://lod.isi.edu/person/id/1> <http://vivoweb.org/ontology/core#identifier> "1" .
-<http://lod.isi.edu/person/id/1> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Professor> .
+<http://lod.isi.edu/person/id/1> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Professorrr> .
+<http://lod.isi.edu/person/id/1> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "1" .
 
 <http://lod.isi.edu/position_type/Professor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Professor> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/2> .
 <http://lod.isi.edu/position_type/Professor> <http://xmlns.com/foaf/0.1/title> "Professor" .
-<http://lod.isi.edu/person/id/2> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "2" .
 <http://lod.isi.edu/person/id/2> <http://vivoweb.org/ontology/core#identifier> "2" .
 <http://lod.isi.edu/person/id/2> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Professor> .
+<http://lod.isi.edu/person/id/2> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "2" .
 
 <http://lod.isi.edu/position_type/Professor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Professor> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/3> .
 <http://lod.isi.edu/position_type/Professor> <http://xmlns.com/foaf/0.1/title> "Professor" .
-<http://lod.isi.edu/person/id/3> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "3" .
 <http://lod.isi.edu/person/id/3> <http://vivoweb.org/ontology/core#identifier> "3" .
 <http://lod.isi.edu/person/id/3> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Professor> .
+<http://lod.isi.edu/person/id/3> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "3" .
 
 <http://lod.isi.edu/position_type/Professor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Professor> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/4> .
 <http://lod.isi.edu/position_type/Professor> <http://xmlns.com/foaf/0.1/title> "Professor" .
-<http://lod.isi.edu/person/id/4> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "4" .
 <http://lod.isi.edu/person/id/4> <http://vivoweb.org/ontology/core#identifier> "4" .
 <http://lod.isi.edu/person/id/4> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Professor> .
+<http://lod.isi.edu/person/id/4> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "4" .
 
 <http://lod.isi.edu/position_type/Professor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Professor> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/5> .
 <http://lod.isi.edu/position_type/Professor> <http://xmlns.com/foaf/0.1/title> "Professor" .
-<http://lod.isi.edu/person/id/5> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "5" .
 <http://lod.isi.edu/person/id/5> <http://vivoweb.org/ontology/core#identifier> "5" .
 <http://lod.isi.edu/person/id/5> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Professor> .
+<http://lod.isi.edu/person/id/5> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "5" .
 
 <http://lod.isi.edu/position_type/Professor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Professor> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/6> .
 <http://lod.isi.edu/position_type/Professor> <http://xmlns.com/foaf/0.1/title> "Professor" .
-<http://lod.isi.edu/person/id/6> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "6" .
 <http://lod.isi.edu/person/id/6> <http://vivoweb.org/ontology/core#identifier> "6" .
 <http://lod.isi.edu/person/id/6> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Professor> .
+<http://lod.isi.edu/person/id/6> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "6" .
 
 <http://lod.isi.edu/position_type/Researcher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Researcher> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/7> .
 <http://lod.isi.edu/position_type/Researcher> <http://xmlns.com/foaf/0.1/title> "Researcher" .
-<http://lod.isi.edu/person/id/7> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "1" .
 <http://lod.isi.edu/person/id/7> <http://vivoweb.org/ontology/core#identifier> "7" .
 <http://lod.isi.edu/person/id/7> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Researcher> .
+<http://lod.isi.edu/person/id/7> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "1" .
 
 <http://lod.isi.edu/position_type/Researcher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Researcher> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/8> .
 <http://lod.isi.edu/position_type/Researcher> <http://xmlns.com/foaf/0.1/title> "Researcher" .
-<http://lod.isi.edu/person/id/8> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "2" .
 <http://lod.isi.edu/person/id/8> <http://vivoweb.org/ontology/core#identifier> "8" .
 <http://lod.isi.edu/person/id/8> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Researcher> .
+<http://lod.isi.edu/person/id/8> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "2" .
 
 <http://lod.isi.edu/position_type/Researcher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Researcher> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/9> .
 <http://lod.isi.edu/position_type/Researcher> <http://xmlns.com/foaf/0.1/title> "Researcher" .
-<http://lod.isi.edu/person/id/9> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "3" .
 <http://lod.isi.edu/person/id/9> <http://vivoweb.org/ontology/core#identifier> "9" .
 <http://lod.isi.edu/person/id/9> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Researcher> .
+<http://lod.isi.edu/person/id/9> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "3" .
 
 <http://lod.isi.edu/position_type/Researcher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Researcher> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/10> .
 <http://lod.isi.edu/position_type/Researcher> <http://xmlns.com/foaf/0.1/title> "Researcher" .
-<http://lod.isi.edu/person/id/10> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "4" .
 <http://lod.isi.edu/person/id/10> <http://vivoweb.org/ontology/core#identifier> "10" .
 <http://lod.isi.edu/person/id/10> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Researcher> .
+<http://lod.isi.edu/person/id/10> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "4" .
 
 <http://lod.isi.edu/position_type/Researcher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Researcher> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/11> .
 <http://lod.isi.edu/position_type/Researcher> <http://xmlns.com/foaf/0.1/title> "Researcher" .
-<http://lod.isi.edu/person/id/11> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "5" .
 <http://lod.isi.edu/person/id/11> <http://vivoweb.org/ontology/core#identifier> "11" .
 <http://lod.isi.edu/person/id/11> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Researcher> .
+<http://lod.isi.edu/person/id/11> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "5" .
 
 <http://lod.isi.edu/position_type/GraduateStudent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/GraduateStudent> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/12> .
 <http://lod.isi.edu/position_type/GraduateStudent> <http://xmlns.com/foaf/0.1/title> "Graduate Student" .
-<http://lod.isi.edu/person/id/12> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "1" .
 <http://lod.isi.edu/person/id/12> <http://vivoweb.org/ontology/core#identifier> "12" .
 <http://lod.isi.edu/person/id/12> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/GraduateStudent> .
+<http://lod.isi.edu/person/id/12> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "1" .
 
 <http://lod.isi.edu/position_type/GraduateStudent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/GraduateStudent> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/13> .
 <http://lod.isi.edu/position_type/GraduateStudent> <http://xmlns.com/foaf/0.1/title> "Graduate Student" .
-<http://lod.isi.edu/person/id/13> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "2" .
 <http://lod.isi.edu/person/id/13> <http://vivoweb.org/ontology/core#identifier> "13" .
 <http://lod.isi.edu/person/id/13> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/GraduateStudent> .
+<http://lod.isi.edu/person/id/13> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "2" .
 
 <http://lod.isi.edu/position_type/GraduateStudent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/GraduateStudent> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/14> .
 <http://lod.isi.edu/position_type/GraduateStudent> <http://xmlns.com/foaf/0.1/title> "Graduate Student" .
-<http://lod.isi.edu/person/id/14> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "3" .
 <http://lod.isi.edu/person/id/14> <http://vivoweb.org/ontology/core#identifier> "14" .
 <http://lod.isi.edu/person/id/14> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/GraduateStudent> .
+<http://lod.isi.edu/person/id/14> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "3" .
 
 <http://lod.isi.edu/position_type/GraduateStudent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/GraduateStudent> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/15> .
 <http://lod.isi.edu/position_type/GraduateStudent> <http://xmlns.com/foaf/0.1/title> "Graduate Student" .
-<http://lod.isi.edu/person/id/15> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "4" .
 <http://lod.isi.edu/person/id/15> <http://vivoweb.org/ontology/core#identifier> "15" .
 <http://lod.isi.edu/person/id/15> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/GraduateStudent> .
+<http://lod.isi.edu/person/id/15> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "4" .
 
 <http://lod.isi.edu/position_type/GraduateStudent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/GraduateStudent> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/16> .
 <http://lod.isi.edu/position_type/GraduateStudent> <http://xmlns.com/foaf/0.1/title> "Graduate Student" .
-<http://lod.isi.edu/person/id/16> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "5" .
 <http://lod.isi.edu/person/id/16> <http://vivoweb.org/ontology/core#identifier> "16" .
 <http://lod.isi.edu/person/id/16> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/GraduateStudent> .
+<http://lod.isi.edu/person/id/16> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "5" .
 
 <http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Alumni> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/17> .
 <http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
-<http://lod.isi.edu/person/id/17> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "1" .
 <http://lod.isi.edu/person/id/17> <http://vivoweb.org/ontology/core#identifier> "17" .
 <http://lod.isi.edu/person/id/17> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/17> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "1" .
 
 <http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Alumni> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/18> .
 <http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
-<http://lod.isi.edu/person/id/18> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "2" .
 <http://lod.isi.edu/person/id/18> <http://vivoweb.org/ontology/core#identifier> "18" .
 <http://lod.isi.edu/person/id/18> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/18> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "2" .
 
 <http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Alumni> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/19> .
 <http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
-<http://lod.isi.edu/person/id/19> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "3" .
 <http://lod.isi.edu/person/id/19> <http://vivoweb.org/ontology/core#identifier> "19" .
 <http://lod.isi.edu/person/id/19> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/19> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "3" .
 
 <http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Alumni> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/20> .
 <http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
-<http://lod.isi.edu/person/id/20> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "4" .
 <http://lod.isi.edu/person/id/20> <http://vivoweb.org/ontology/core#identifier> "20" .
 <http://lod.isi.edu/person/id/20> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/20> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "4" .
 
 <http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Alumni> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/21> .
 <http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
-<http://lod.isi.edu/person/id/21> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "5" .
 <http://lod.isi.edu/person/id/21> <http://vivoweb.org/ontology/core#identifier> "21" .
 <http://lod.isi.edu/person/id/21> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/21> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "5" .
 
 <http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Alumni> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/22> .
 <http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
-<http://lod.isi.edu/person/id/22> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "6" .
 <http://lod.isi.edu/person/id/22> <http://vivoweb.org/ontology/core#identifier> "22" .
 <http://lod.isi.edu/person/id/22> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/22> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "6" .
 
 <http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Alumni> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/23> .
 <http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
-<http://lod.isi.edu/person/id/23> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "7" .
 <http://lod.isi.edu/person/id/23> <http://vivoweb.org/ontology/core#identifier> "23" .
 <http://lod.isi.edu/person/id/23> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/23> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "7" .
 
 <http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Alumni> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/24> .
 <http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
-<http://lod.isi.edu/person/id/24> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "8" .
 <http://lod.isi.edu/person/id/24> <http://vivoweb.org/ontology/core#identifier> "24" .
 <http://lod.isi.edu/person/id/24> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/24> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "8" .
 
 <http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Alumni> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/25> .
 <http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
-<http://lod.isi.edu/person/id/25> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "9" .
 <http://lod.isi.edu/person/id/25> <http://vivoweb.org/ontology/core#identifier> "25" .
 <http://lod.isi.edu/person/id/25> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/25> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "9" .
 
 <http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Alumni> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/26> .
 <http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
-<http://lod.isi.edu/person/id/26> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "10" .
 <http://lod.isi.edu/person/id/26> <http://vivoweb.org/ontology/core#identifier> "26" .
 <http://lod.isi.edu/person/id/26> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/26> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "10" .
 
 <http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Alumni> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/27> .
 <http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
-<http://lod.isi.edu/person/id/27> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "11" .
 <http://lod.isi.edu/person/id/27> <http://vivoweb.org/ontology/core#identifier> "27" .
 <http://lod.isi.edu/person/id/27> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/27> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "11" .
 
 <http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Alumni> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/28> .
 <http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
-<http://lod.isi.edu/person/id/28> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "12" .
 <http://lod.isi.edu/person/id/28> <http://vivoweb.org/ontology/core#identifier> "28" .
 <http://lod.isi.edu/person/id/28> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/28> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "12" .
 
 <http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Alumni> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/29> .
 <http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
-<http://lod.isi.edu/person/id/29> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "13" .
 <http://lod.isi.edu/person/id/29> <http://vivoweb.org/ontology/core#identifier> "29" .
 <http://lod.isi.edu/person/id/29> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/29> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "13" .
 
 <http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Alumni> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/30> .
 <http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
-<http://lod.isi.edu/person/id/30> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "14" .
 <http://lod.isi.edu/person/id/30> <http://vivoweb.org/ontology/core#identifier> "30" .
 <http://lod.isi.edu/person/id/30> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/30> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "14" .
 
 <http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Alumni> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/31> .
 <http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
-<http://lod.isi.edu/person/id/31> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "15" .
 <http://lod.isi.edu/person/id/31> <http://vivoweb.org/ontology/core#identifier> "31" .
 <http://lod.isi.edu/person/id/31> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/31> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "15" .
 
 <http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Alumni> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/32> .
 <http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
-<http://lod.isi.edu/person/id/32> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "16" .
 <http://lod.isi.edu/person/id/32> <http://vivoweb.org/ontology/core#identifier> "32" .
 <http://lod.isi.edu/person/id/32> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/32> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "16" .
 
 <http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Alumni> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/33> .
 <http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
-<http://lod.isi.edu/person/id/33> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "17" .
 <http://lod.isi.edu/person/id/33> <http://vivoweb.org/ontology/core#identifier> "33" .
 <http://lod.isi.edu/person/id/33> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/33> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "17" .
 
 <http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Alumni> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/34> .
 <http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
-<http://lod.isi.edu/person/id/34> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "18" .
 <http://lod.isi.edu/person/id/34> <http://vivoweb.org/ontology/core#identifier> "34" .
 <http://lod.isi.edu/person/id/34> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/34> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "18" .
 
 <http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Alumni> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/35> .
 <http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
-<http://lod.isi.edu/person/id/35> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "19" .
 <http://lod.isi.edu/person/id/35> <http://vivoweb.org/ontology/core#identifier> "35" .
 <http://lod.isi.edu/person/id/35> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/35> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "19" .
 
 <http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Alumni> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/36> .
 <http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
-<http://lod.isi.edu/person/id/36> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "20" .
 <http://lod.isi.edu/person/id/36> <http://vivoweb.org/ontology/core#identifier> "36" .
 <http://lod.isi.edu/person/id/36> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/36> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "20" .
 
 <http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Alumni> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/37> .
 <http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
-<http://lod.isi.edu/person/id/37> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "21" .
 <http://lod.isi.edu/person/id/37> <http://vivoweb.org/ontology/core#identifier> "37" .
 <http://lod.isi.edu/person/id/37> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/37> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "21" .
 
 <http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Alumni> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/38> .
 <http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
-<http://lod.isi.edu/person/id/38> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "22" .
 <http://lod.isi.edu/person/id/38> <http://vivoweb.org/ontology/core#identifier> "38" .
 <http://lod.isi.edu/person/id/38> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/38> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "22" .
 
 <http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Alumni> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/39> .
 <http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
-<http://lod.isi.edu/person/id/39> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "23" .
 <http://lod.isi.edu/person/id/39> <http://vivoweb.org/ontology/core#identifier> "39" .
 <http://lod.isi.edu/person/id/39> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/39> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "23" .
 
 <http://lod.isi.edu/position_type/Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Position> .
 <http://lod.isi.edu/person/id/40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/position_type/Alumni> <http://vivoweb.org/ontology/core#positionForPerson> <http://lod.isi.edu/person/id/40> .
 <http://lod.isi.edu/position_type/Alumni> <http://xmlns.com/foaf/0.1/title> "Alumni" .
-<http://lod.isi.edu/person/id/40> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "24" .
 <http://lod.isi.edu/person/id/40> <http://vivoweb.org/ontology/core#identifier> "40" .
 <http://lod.isi.edu/person/id/40> <http://vivoweb.org/ontology/core#personInPosition> <http://lod.isi.edu/position_type/Alumni> .
+<http://lod.isi.edu/person/id/40> <http://vivoweb.org/ontology/core#preferredDisplayOrder> "24" .
 
