@@ -1,0 +1,3 @@
+<http://lod.isi.edu/division/people/data/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://lod.isi.edu/division/people/data/> <http://lod.isi.edu/division/information-integration/lastUpdatedDate> "May 05 2014 11:38:52" .
+

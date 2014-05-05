@@ -1,57 +1,57 @@
 <http://lod.isi.edu/organization/id/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
-<http://lod.isi.edu/organization/id/1> <http://vivoweb.org/ontology/core#address1> "11" .
 <http://lod.isi.edu/organization/id/1> <http://www.w3.org/2000/01/rdf-schema#label> "ISI" .
+<http://lod.isi.edu/organization/id/1> <http://vivoweb.org/ontology/core#address1> "11" .
 <http://lod.isi.edu/organization/id/1> <http://vivoweb.org/ontology/core#identifier> "1" .
 
 <http://lod.isi.edu/person/id/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/organization/id/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
-<http://lod.isi.edu/person/id/22> <http://vivoweb.org/ontology/core#memberRoleOf> <http://lod.isi.edu/organization/id/2> .
 <http://lod.isi.edu/person/id/22> <http://vivoweb.org/ontology/core#currentlyHeadOf> <http://lod.isi.edu/organization/id/2> .
+<http://lod.isi.edu/person/id/22> <http://vivoweb.org/ontology/core#memberRoleOf> <http://lod.isi.edu/organization/id/2> .
 <http://lod.isi.edu/organization/id/2> <http://vivoweb.org/ontology/core#currentlyHeadedBy> <http://lod.isi.edu/person/id/22> .
-<http://lod.isi.edu/organization/id/2> <http://vivoweb.org/ontology/core#address1> "Thailand" .
 <http://lod.isi.edu/organization/id/2> <http://vivoweb.org/ontology/core#hasMemberRole> <http://lod.isi.edu/person/id/22> .
 <http://lod.isi.edu/organization/id/2> <http://www.w3.org/2000/01/rdf-schema#label> "NECTC" .
+<http://lod.isi.edu/organization/id/2> <http://vivoweb.org/ontology/core#address1> "Thailand" .
 <http://lod.isi.edu/organization/id/2> <http://vivoweb.org/ontology/core#identifier> "2" .
 <http://lod.isi.edu/person/id/27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/27> <http://vivoweb.org/ontology/core#memberRoleOf> <http://lod.isi.edu/organization/id/2> .
 <http://lod.isi.edu/person/id/27> <http://vivoweb.org/ontology/core#currentlyHeadOf> <http://lod.isi.edu/organization/id/2> .
+<http://lod.isi.edu/person/id/27> <http://vivoweb.org/ontology/core#memberRoleOf> <http://lod.isi.edu/organization/id/2> .
 <http://lod.isi.edu/organization/id/2> <http://vivoweb.org/ontology/core#currentlyHeadedBy> <http://lod.isi.edu/person/id/27> .
 <http://lod.isi.edu/organization/id/2> <http://vivoweb.org/ontology/core#hasMemberRole> <http://lod.isi.edu/person/id/27> .
 
 <http://lod.isi.edu/person/id/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/organization/id/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
-<http://lod.isi.edu/person/id/23> <http://vivoweb.org/ontology/core#memberRoleOf> <http://lod.isi.edu/organization/id/3> .
 <http://lod.isi.edu/person/id/23> <http://vivoweb.org/ontology/core#currentlyHeadOf> <http://lod.isi.edu/organization/id/3> .
+<http://lod.isi.edu/person/id/23> <http://vivoweb.org/ontology/core#memberRoleOf> <http://lod.isi.edu/organization/id/3> .
 <http://lod.isi.edu/organization/id/3> <http://vivoweb.org/ontology/core#currentlyHeadedBy> <http://lod.isi.edu/person/id/23> .
-<http://lod.isi.edu/organization/id/3> <http://vivoweb.org/ontology/core#address1> "Irvine" .
 <http://lod.isi.edu/organization/id/3> <http://vivoweb.org/ontology/core#hasMemberRole> <http://lod.isi.edu/person/id/23> .
-<http://lod.isi.edu/organization/id/3> <http://vivoweb.org/ontology/core#linkURI> "http://vivoweb.org/ontology/core#University" .
 <http://lod.isi.edu/organization/id/3> <http://www.w3.org/2000/01/rdf-schema#label> "University of California" .
+<http://lod.isi.edu/organization/id/3> <http://vivoweb.org/ontology/core#address1> "Irvine" .
 <http://lod.isi.edu/organization/id/3> <http://vivoweb.org/ontology/core#identifier> "3" .
+<http://lod.isi.edu/organization/id/3> <http://vivoweb.org/ontology/core#linkURI> "http://vivoweb.org/ontology/core#University" .
 
 <http://lod.isi.edu/person/id/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/organization/id/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
-<http://lod.isi.edu/person/id/25> <http://vivoweb.org/ontology/core#memberRoleOf> <http://lod.isi.edu/organization/id/4> .
 <http://lod.isi.edu/person/id/25> <http://vivoweb.org/ontology/core#currentlyHeadOf> <http://lod.isi.edu/organization/id/4> .
+<http://lod.isi.edu/person/id/25> <http://vivoweb.org/ontology/core#memberRoleOf> <http://lod.isi.edu/organization/id/4> .
 <http://lod.isi.edu/organization/id/4> <http://vivoweb.org/ontology/core#currentlyHeadedBy> <http://lod.isi.edu/person/id/25> .
 <http://lod.isi.edu/organization/id/4> <http://vivoweb.org/ontology/core#hasMemberRole> <http://lod.isi.edu/person/id/25> .
 <http://lod.isi.edu/organization/id/4> <http://www.w3.org/2000/01/rdf-schema#label> "Fetch Technologies" .
 <http://lod.isi.edu/organization/id/4> <http://vivoweb.org/ontology/core#identifier> "4" .
 <http://lod.isi.edu/person/id/31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/31> <http://vivoweb.org/ontology/core#memberRoleOf> <http://lod.isi.edu/organization/id/4> .
 <http://lod.isi.edu/person/id/31> <http://vivoweb.org/ontology/core#currentlyHeadOf> <http://lod.isi.edu/organization/id/4> .
+<http://lod.isi.edu/person/id/31> <http://vivoweb.org/ontology/core#memberRoleOf> <http://lod.isi.edu/organization/id/4> .
 <http://lod.isi.edu/organization/id/4> <http://vivoweb.org/ontology/core#currentlyHeadedBy> <http://lod.isi.edu/person/id/31> .
 <http://lod.isi.edu/organization/id/4> <http://vivoweb.org/ontology/core#hasMemberRole> <http://lod.isi.edu/person/id/31> .
 <http://lod.isi.edu/person/id/32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://lod.isi.edu/person/id/32> <http://vivoweb.org/ontology/core#memberRoleOf> <http://lod.isi.edu/organization/id/4> .
 <http://lod.isi.edu/person/id/32> <http://vivoweb.org/ontology/core#currentlyHeadOf> <http://lod.isi.edu/organization/id/4> .
+<http://lod.isi.edu/person/id/32> <http://vivoweb.org/ontology/core#memberRoleOf> <http://lod.isi.edu/organization/id/4> .
 <http://lod.isi.edu/organization/id/4> <http://vivoweb.org/ontology/core#currentlyHeadedBy> <http://lod.isi.edu/person/id/32> .
 <http://lod.isi.edu/organization/id/4> <http://vivoweb.org/ontology/core#hasMemberRole> <http://lod.isi.edu/person/id/32> .
 
 <http://lod.isi.edu/person/id/28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/organization/id/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
-<http://lod.isi.edu/person/id/28> <http://vivoweb.org/ontology/core#memberRoleOf> <http://lod.isi.edu/organization/id/5> .
 <http://lod.isi.edu/person/id/28> <http://vivoweb.org/ontology/core#currentlyHeadOf> <http://lod.isi.edu/organization/id/5> .
+<http://lod.isi.edu/person/id/28> <http://vivoweb.org/ontology/core#memberRoleOf> <http://lod.isi.edu/organization/id/5> .
 <http://lod.isi.edu/organization/id/5> <http://vivoweb.org/ontology/core#currentlyHeadedBy> <http://lod.isi.edu/person/id/28> .
 <http://lod.isi.edu/organization/id/5> <http://vivoweb.org/ontology/core#hasMemberRole> <http://lod.isi.edu/person/id/28> .
 <http://lod.isi.edu/organization/id/5> <http://www.w3.org/2000/01/rdf-schema#label> "Symantec Corporation" .
@@ -59,8 +59,8 @@
 
 <http://lod.isi.edu/person/id/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/organization/id/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
-<http://lod.isi.edu/person/id/30> <http://vivoweb.org/ontology/core#memberRoleOf> <http://lod.isi.edu/organization/id/6> .
 <http://lod.isi.edu/person/id/30> <http://vivoweb.org/ontology/core#currentlyHeadOf> <http://lod.isi.edu/organization/id/6> .
+<http://lod.isi.edu/person/id/30> <http://vivoweb.org/ontology/core#memberRoleOf> <http://lod.isi.edu/organization/id/6> .
 <http://lod.isi.edu/organization/id/6> <http://vivoweb.org/ontology/core#currentlyHeadedBy> <http://lod.isi.edu/person/id/30> .
 <http://lod.isi.edu/organization/id/6> <http://vivoweb.org/ontology/core#hasMemberRole> <http://lod.isi.edu/person/id/30> .
 <http://lod.isi.edu/organization/id/6> <http://www.w3.org/2000/01/rdf-schema#label> "Adventium Labs" .
@@ -68,30 +68,30 @@
 
 <http://lod.isi.edu/person/id/35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/organization/id/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
-<http://lod.isi.edu/person/id/35> <http://vivoweb.org/ontology/core#memberRoleOf> <http://lod.isi.edu/organization/id/7> .
 <http://lod.isi.edu/person/id/35> <http://vivoweb.org/ontology/core#currentlyHeadOf> <http://lod.isi.edu/organization/id/7> .
+<http://lod.isi.edu/person/id/35> <http://vivoweb.org/ontology/core#memberRoleOf> <http://lod.isi.edu/organization/id/7> .
 <http://lod.isi.edu/organization/id/7> <http://vivoweb.org/ontology/core#currentlyHeadedBy> <http://lod.isi.edu/person/id/35> .
 <http://lod.isi.edu/organization/id/7> <http://vivoweb.org/ontology/core#hasMemberRole> <http://lod.isi.edu/person/id/35> .
-<http://lod.isi.edu/organization/id/7> <http://vivoweb.org/ontology/core#linkURI> "http://vivoweb.org/ontology/core#University" .
 <http://lod.isi.edu/organization/id/7> <http://www.w3.org/2000/01/rdf-schema#label> "Carnegie Mellon University" .
 <http://lod.isi.edu/organization/id/7> <http://vivoweb.org/ontology/core#identifier> "7" .
+<http://lod.isi.edu/organization/id/7> <http://vivoweb.org/ontology/core#linkURI> "http://vivoweb.org/ontology/core#University" .
 
 <http://lod.isi.edu/person/id/39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/organization/id/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
-<http://lod.isi.edu/person/id/39> <http://vivoweb.org/ontology/core#memberRoleOf> <http://lod.isi.edu/organization/id/8> .
 <http://lod.isi.edu/person/id/39> <http://vivoweb.org/ontology/core#currentlyHeadOf> <http://lod.isi.edu/organization/id/8> .
+<http://lod.isi.edu/person/id/39> <http://vivoweb.org/ontology/core#memberRoleOf> <http://lod.isi.edu/organization/id/8> .
 <http://lod.isi.edu/organization/id/8> <http://vivoweb.org/ontology/core#currentlyHeadedBy> <http://lod.isi.edu/person/id/39> .
 <http://lod.isi.edu/organization/id/8> <http://vivoweb.org/ontology/core#hasMemberRole> <http://lod.isi.edu/person/id/39> .
-<http://lod.isi.edu/organization/id/8> <http://vivoweb.org/ontology/core#linkURI> "http://vivoweb.org/ontology/core#University" .
 <http://lod.isi.edu/organization/id/8> <http://www.w3.org/2000/01/rdf-schema#label> "USC" .
 <http://lod.isi.edu/organization/id/8> <http://vivoweb.org/ontology/core#identifier> "8" .
+<http://lod.isi.edu/organization/id/8> <http://vivoweb.org/ontology/core#linkURI> "http://vivoweb.org/ontology/core#University" .
 
 <http://lod.isi.edu/person/id/40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://lod.isi.edu/organization/id/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
-<http://lod.isi.edu/person/id/40> <http://vivoweb.org/ontology/core#memberRoleOf> <http://lod.isi.edu/organization/id/9> .
 <http://lod.isi.edu/person/id/40> <http://vivoweb.org/ontology/core#currentlyHeadOf> <http://lod.isi.edu/organization/id/9> .
+<http://lod.isi.edu/person/id/40> <http://vivoweb.org/ontology/core#memberRoleOf> <http://lod.isi.edu/organization/id/9> .
 <http://lod.isi.edu/organization/id/9> <http://vivoweb.org/ontology/core#currentlyHeadedBy> <http://lod.isi.edu/person/id/40> .
 <http://lod.isi.edu/organization/id/9> <http://vivoweb.org/ontology/core#hasMemberRole> <http://lod.isi.edu/person/id/40> .
-<http://lod.isi.edu/organization/id/9> <http://www.w3.org/2000/01/rdf-schema#label> "Googlee Inc." .
+<http://lod.isi.edu/organization/id/9> <http://www.w3.org/2000/01/rdf-schema#label> "Google Inc." .
 <http://lod.isi.edu/organization/id/9> <http://vivoweb.org/ontology/core#identifier> "9" .
 
